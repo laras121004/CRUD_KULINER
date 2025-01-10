@@ -2,6 +2,7 @@
 |----|----|
 |Nama|Laras Sakti|
 |Nim|312310627|
+|Kelas|TI.23.A6|
 |Mata Kulial|Pemograman Web 1|
 
 # Membuat Aplikasi CRUD Sederhana
@@ -38,7 +39,9 @@ Tampilan akhirnya akan seperti ini.
 
 Kita bisa menambahkan nama makanan favorite kita sesuka hati.
 
-## *Update food
+![Cuplikan layar 2025-01-10 015301](https://github.com/user-attachments/assets/23ae3d58-c16c-4cbf-b4e9-8dbcb69b4ae2)
+
+## *Update Food
 
 ![Cuplikan layar 2025-01-10 015009](https://github.com/user-attachments/assets/01e448f4-f9f1-493a-a483-c98caa00295b)
 
@@ -61,6 +64,67 @@ Jita menampilkan notifikasi seperti ini lalu kita klik ok maka berhasil kita men
 ![Cuplikan layar 2025-01-10 015105](https://github.com/user-attachments/assets/a48a4e57-fde4-4ff3-be6f-5dda2b41ed42)
 
 Menjadi seperti ini.
+
+## Drink
+
+## *Tampilan Awal
+
+![Cuplikan layar 2025-01-10 055347](https://github.com/user-attachments/assets/9c369402-2e0d-459e-a036-e2973dff91c1)
+
+Ini adalah tampilan awal sebelum pengisian data minuman nya.
+
+## *Add Drink
+
+![Cuplikan layar 2025-01-10 015135](https://github.com/user-attachments/assets/8d36e2a9-32f1-40f5-b2e1-cd20b17923df)
+
+Disini Kita dapat mengisi Nama minuman dan asal minuman tersebut.
+
+![Cuplikan layar 2025-01-10 014751](https://github.com/user-attachments/assets/bef17af6-7f3c-45a3-b2c0-ff6ae990f4f0)
+
+Setelah ada notifikasi seperti ini maka berhasil kita menambahkan atau pun menyimpan data minuman.
+
+![Cuplikan layar 2025-01-10 015157](https://github.com/user-attachments/assets/70ace1cb-3e4b-45fc-b101-dda7e79a1040)
+
+Nama dan asal minuman sudah kita tambahkan.
+
+![Cuplikan layar 2025-01-10 015301](https://github.com/user-attachments/assets/800d0a13-fb75-45f7-8191-0892a3a733f4)
+
+Ini adalah data-data yang sudah saya tambahkan.
+
+## *Update Drink
+
+![Cuplikan layar 2025-01-10 015406](https://github.com/user-attachments/assets/50ba7a9b-c86d-4a5c-83b5-1efac3a596bb)
+
+Kita dapat merubah nama minuman ataupun daerahnya, jika kita salah ketik atau apapun bisa diubah di sini.
+
+## *Delete Drink
+
+![Cuplikan layar 2025-01-10 015434](https://github.com/user-attachments/assets/de2d01b4-eedc-4109-aa78-26fdf6eeade2)
+
+Ketika kita tekan tombol delete maka tampilan nya akan seperti ini,
+
+![Cuplikan layar 2025-01-10 015507](https://github.com/user-attachments/assets/7e4e2883-13fe-4438-82a5-0f139dd05fd3)
+
+dan ini hasil nya satu data telah kita hapus.
+
+## About
+
+![Cuplikan layar 2025-01-10 061238](https://github.com/user-attachments/assets/0e10e79d-fdf3-43a8-820f-60e45bf45ccc)
+
+## Contact
+
+![Cuplikan layar 2025-01-10 061315](https://github.com/user-attachments/assets/56cc85d8-54be-4767-bc5b-3e143f396b26)
+
+## Selesai
+
+
+
+
+
+
+
+
+
 
 
 
